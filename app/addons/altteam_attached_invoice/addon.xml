@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>altteam_attached_invoice</id>
+    <version>2.1.1</version>
+    <status>active</status>
+    <priority>4294967294</priority>
+    <position>10</position> 
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <default_language>en</default_language>
+    <supplier>Alt-team</supplier>
+    <supplier_link>https://alt-team.com/</supplier_link>
+    <authors>
+        <author>
+            <name>Alt-team</name>
+            <email>manager@alt-team.com</email>
+            <url>https://www.alt-team.com/</url>
+        </author>
+    </authors>
+    <has_icon>Y</has_icon>
+    <compatibility>
+        <core_version>
+            <min>4.4.1</min>
+        </core_version>
+    </compatibility>
+</addon>
